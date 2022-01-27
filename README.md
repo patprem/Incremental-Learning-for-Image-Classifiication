@@ -1,2 +1,2 @@
-# Incremental-Learning-for-Image-Classifiication
-Incremental Deep Learning for Image Classification
+# Incremental Deep Learning for Image Classifiication
+]
