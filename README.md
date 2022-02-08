@@ -1,6 +1,6 @@
 # Incremental Deep Learning for Image Classifiication
 <p align = "center">
-  COMING SOON!>
+  COMING SOON!
 </p>
   
 <p align = "center">
